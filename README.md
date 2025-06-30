@@ -1,1 +1,1 @@
-🚨 An interactive cyber crisis simulation: CyberScenario v2 📌 https://ozancolhak.github.io/cyberscenario6/
+🚨 Etkileşimli bir siber kriz simülasyonu: CyberScenario v6 Türkçe 📌 Canlı demo: https://ozancolhak.github.io/cyberscenario6/
